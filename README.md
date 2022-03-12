@@ -17,15 +17,23 @@ Uses:
 
 Example Images
 (Map)
+
 <img width="241" alt="image" src="https://user-images.githubusercontent.com/61750390/158037474-7849f577-d6ce-43a8-ad03-d1cc4adf74d5.png">
+
+
   - Add overlays via url
   - Add custom Polygons and Circles via touchscreen interaction
   - Display Microbit location via Markers
  
 (Dashboard)
+
 <img width="241" alt="image" src="https://user-images.githubusercontent.com/61750390/158037599-f2c539df-fbb2-4613-845a-6b1f6ec8f084.png">
+
+
   - Shows total connections per second
  
 (Chat Messenger)
+
+
 <img width="164" alt="image" src="https://user-images.githubusercontent.com/61750390/158037624-7295d05e-8726-4ac8-87d5-8647ffe5c390.png">
 
